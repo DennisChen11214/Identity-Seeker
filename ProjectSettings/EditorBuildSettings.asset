@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 26ffc08ffbdfebd49af3d869f8c3efe0
+  - enabled: 1
+    path: Assets/Scenes/Platformer.unity
+    guid: a5607c58316f7d240a6d2210963a0ad2
+  - enabled: 1
+    path: Assets/Scenes/drawing.unity
+    guid: 1cf4b78d315bb8b4d88ce288fac36393
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: eb168e785f99a4c4480f5bf03ac98bfa
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: ba9ef76e5687fa74a8934bbed0c2b0b3, type: 2}
